@@ -30,5 +30,5 @@ issuer = "GARBCYGT5TO4Z5WCYNOJX53ZR4ZELBY5ZAYK6DKOABRL26P44KBISOJC"
 is_asset_anchored = false
 display_decimals = 7
 desc="UDIN Token"
-image="https://udin.xyz/assets/udintoken.png"
+image="https://udin.xyz/assets/udin.png"
 conditions="There will only ever be 1 billion UDIN tokens in existence."

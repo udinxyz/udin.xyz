@@ -25,10 +25,10 @@ ORG_OFFICIAL_EMAIL="soon"
 
 [[CURRENCIES]]
 code = "UDIN"
-name = "UDIN"
+name = "UDIN Token"
 issuer = "GARBCYGT5TO4Z5WCYNOJX53ZR4ZELBY5ZAYK6DKOABRL26P44KBISOJC"
 is_asset_anchored = false
 display_decimals = 7
-desc="UDIN Token"
+desc="UDIN Token - Just For Fun"
 image="https://udin.xyz/assets/udin.png"
 conditions="There will only ever be 1 billion UDIN tokens in existence."
